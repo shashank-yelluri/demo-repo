@@ -1,3 +1,7 @@
-# Demo
+# Heading
 
-Adding some files.
+Use # for heading.
+
+## Subheading
+
+use ## for subheading.
